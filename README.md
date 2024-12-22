@@ -7,6 +7,4 @@
 | Oleksandr Pospielov | Al3xrunner |
 
 ## Resources
-[Google Drive]:[google_drive]
-
-[google_drive]: https://drive.google.com/drive/folders/11IbSYdtCCtmHc5D7P9hTTaMxmuInLoOm?usp=sharing
+<a href="https://drive.google.com/drive/folders/11IbSYdtCCtmHc5D7P9hTTaMxmuInLoOm?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/512px-Google_Drive_icon_%282020%29.svg.png?20221103153031"></a>
