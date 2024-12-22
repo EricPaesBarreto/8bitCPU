@@ -7,6 +7,6 @@
 | Oleksandr Pospielov | Al3xrunner |
 
 ## Resources
-![Static Badge](https://img.shields.io/badge/google_drive?style=flat&logo=googledrive&color=%234285F4)
+![Static Badge](https://img.shields.io/badge/logo-javascript-blue?logo=googledrive)
 
 <a href="https://drive.google.com/drive/folders/11IbSYdtCCtmHc5D7P9hTTaMxmuInLoOm?usp=sharing"><img style="width: 30px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/512px-Google_Drive_icon_%282020%29.svg.png?20221103153031"></a> - Google drive
